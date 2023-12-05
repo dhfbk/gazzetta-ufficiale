@@ -2,7 +2,7 @@
 
 This repository contains the dataset used in the following paper:
 
-M. Rovera, A. Palmero Aprosio, F. Greco, M. Lucchese, S. Tonelli and A. Antetomaso (2023) **Italian Legislative Text Classification for Gazzetta Ufficiale**. *In Proceedings of the Fifth Natural Legal Language Workshop (NLLP2023)*.
+M. Rovera, A. Palmero Aprosio, F. Greco, M. Lucchese, S. Tonelli and A. Antetomaso (2023) [Italian Legislative Text Classification for Gazzetta Ufficiale](https://aclanthology.org/2023.nllp-1.6.pdf). In *Proceedings of the Natural Legal Language Processing Workshop 2023*, pp. 44-50, 2023.
 
 The [model](https://huggingface.co/dhfbk/gulbert-ft-ita) can be found on our [Hugging Face account](https://huggingface.co/dhfbk).
 
